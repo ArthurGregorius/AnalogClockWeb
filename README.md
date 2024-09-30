@@ -25,4 +25,4 @@ AnalogClockWeb is a simple web application that displays an interactive analog c
 ## 📦 How to Use
 1. Clone this repository to your computer:
    ```bash
-   git clone https://github.com/arthurgregorius/AnalogClockWeb.git
+   git clone https://github.com/ArthurGregorius/AnalogClockWeb.git
