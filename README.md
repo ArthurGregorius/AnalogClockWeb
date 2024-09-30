@@ -8,7 +8,7 @@ This project is a simple web application that displays an interactive analog clo
 - Responsive design that fits various screen sizes
 - Simple implementation using standard web technologies
 
-**Live Demo**: [View the Analog Clock](https://arthurgregorius.github.io/analog_clock_web/)
+**Live Demo**: [View the Analog Clock](https://arthurgregorius.github.io/AnalogClockWeb/)
 
 **Technologies Used:**
 - HTML5
